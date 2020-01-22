@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "auth": "/components/auth/auth"
+  },
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "商品详情"
+}
